@@ -2,7 +2,7 @@
 
 ## My Data Science Blog Post which is Available in Medium.com
 
-You can read my Medium full Blog Post in [here]().
+You can read my Medium full Blog Post in [here](https://medium.com/@pappuskskumar/are-there-any-differences-in-terms-of-annual-salary-between-people-who-contribute-to-open-source-a32945da2405?sk=e6923a36e31f6c86dd4a278fd9b0765b).
 
 ### Libraries which are required for this project
 
